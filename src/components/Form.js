@@ -1,6 +1,6 @@
 import React from 'react';
 import { useForm } from 'react-hook-form';
-import Report from '../componentCashFlow/Report';
+import Report from './Report';
 import {default as api} from '../hamper/apiSlice';
 
 export default function Form() {

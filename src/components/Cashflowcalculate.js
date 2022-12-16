@@ -1,4 +1,4 @@
-import React from 'react'
+{/*import React from 'react'
 //import Graph from './components/Graph';
 //import Form from './components/Form';
 
@@ -10,11 +10,11 @@ export default function Cashflowcalculate() {
         
         <div className='grid md:grid-cols-2 gap-4'>
 
-          {/*<Graph></Graph>
-          <Form></Form>*/}
+          <Graph></Graph>
+          <Form></Form>
 
         </div>
       </div>      
     
   )
-}
+}*/}
